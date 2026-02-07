@@ -3,6 +3,28 @@ footer.site-footer .powerby {
     display: none !important;
 }
 
+/* Sidebar widgets: icon to the left of title (archives, categories, tag-cloud, authors, toc) */
+.widget:has(> .widget-icon) {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    column-gap: 0.5rem;
+    align-items: center;
+}
+.widget:has(> .widget-icon) > .widget-icon {
+    grid-column: 1;
+    grid-row: 1;
+}
+.widget:has(> .widget-icon) > .widget-title.section-title {
+    grid-column: 2;
+    grid-row: 1;
+    margin: 0;
+}
+.widget:has(> .widget-icon) > .tagCloud-tags,
+.widget:has(> .widget-icon) > .widget-archive--list,
+.widget:has(> .widget-icon) > .widget--toc {
+    grid-column: 1 / -1;
+}
+
 /* === Description font size overrides === */
 
 /* Post list (homepage, tag pages, etc.) */

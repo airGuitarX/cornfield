@@ -1,0 +1,5 @@
+# Site overrides (defaultContentLanguage: zh-cn)
+widget:
+  authorsCloud:
+    title:
+      other: 作者

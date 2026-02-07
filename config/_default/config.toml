@@ -21,6 +21,12 @@ pagerSize = 5
 
 disableHugoGeneratorInject = true
 
+# Taxonomies (include defaults when adding author for sidebar filter)
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  author = "author"
+
 # Cache location
 [caches]
   [caches.images]

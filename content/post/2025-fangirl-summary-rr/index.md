@@ -1,6 +1,6 @@
 ---
 title: 2025 同人女年度总结
-author: RR
+author: [RR]
 description: 既然有了blog就用一下吧之2025同人年度总结
 slug: 2025-fangirl-summary-rr
 date: 2025-12-31 00:00:00+0000
