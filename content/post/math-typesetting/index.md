@@ -2,7 +2,7 @@
 title: Math Typesetting
 description: Math typesetting using KaTeX
 date: 2023-08-24 00:00:00+0000
-last_modified: "2026-02-07T13:34:04-08:00"
+last_modified: "2026-02-07T21:34:13Z"
 lastmod: "2025-10-04T15:59:08-07:00"
 math: true
 draft: true
