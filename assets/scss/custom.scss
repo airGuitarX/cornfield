@@ -230,3 +230,10 @@ aside.sidebar.right-sidebar .widget.archives .archives-year a {
     }
   }
 }
+
+// set cover size for tf-ao3 post
+ .article-list article .article-image img[src*="tf-ao3"] {
+  height: 300px;
+  object-position: top;
+} 
+

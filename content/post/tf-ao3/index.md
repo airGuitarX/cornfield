@@ -613,12 +613,12 @@ And if the world is not ready to welcome it, Megatronus will have to remake it.
 扫文：
 1039722 - Laws Of Obediance By TheHappyRabbit (2026/02/06)
 真人世苏修系列文含ntr
-红蜘蛛忍辱负重，，，
+红蜘蛛忍辱负重……
+
 扫文：
 1039726 - Laws Of Ownership By TheHappyRabbit (2026/02/06)
 齐心把fallen干跑了于是开始正统（？）的拆
 "That was not what I was referring to, my Lord," A devious smirk and the dulling of optics, "You have returned to your rightful place... on top of and in me."
-
 
 扫文：
 46513534 - Heating Up By LegendaryBard (2026/02/06)
@@ -797,14 +797,10 @@ dom柱sub威，少量剧情接纯拆，大部分是opm传统对接，小部分�
 扫文：
 22189717 - how to defeat a warlord By quietmoon (ambivia) (2026/02/07)
 大家给vv庆祝生日
-
 {{< /fic-formater >}}
 
-
 ### 其他
-
 {{< fic-formater >}}
-
 扫文：
 1101527 - Untold Tales By Quiet_Shadow (2026/01/29)
 威mob，第一章内容是说威角斗士时期有个mob车人买vv想要生个小火种因为觉得这样能提高下一代存活的概率，这车人是红色机体蓝眼睛，后面战争开始以后v在战场上被一个车人狙击手击中，这个人是红灰机体蓝眼睛，v的感想是：he would have smiled thinly, for he could now proudly state that no creation of him was a weakling，第二章貌似和v没关系（
