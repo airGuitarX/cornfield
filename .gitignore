@@ -2,3 +2,6 @@ resources
 .hugo_build.lock
 .DS_Store
 /.DS_Store
+
+# Hugo build output — built in CI, do not commit
+/public/

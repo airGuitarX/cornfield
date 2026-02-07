@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://airguitarx.github.io/cornfield/sitemap.xml
