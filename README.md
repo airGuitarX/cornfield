@@ -2,18 +2,46 @@
 
 什么都可能有～的～玉米地～🌽～
 
-# Dev
+Personal site built with [Hugo](https://gohugo.io/) and [hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack).
+
+## Prerequisites
+
+- [Hugo](https://gohugo.io/installation/) (extended version recommended for the theme)
+
+## Setup
+
 ```bash
-# builds the site in /public, always do this before push
+# Install Hugo (macOS)
+brew install hugo
+
+# Clone the repo and init theme submodule
+git clone <repo-url> cornfield && cd cornfield
+git submodule update --init --recursive
+```
+
+## Development
+
+```bash
+# Build site to ./public
 hugo
-# start local server
-hugo server 
-# start local server in draft mode, you can view draft post in this view
+
+# Local server (default: http://localhost:1313)
+hugo server
+
+# Include draft posts
 hugo server -D
-# start local server, ignore its cache directory and performs a full re-render of the entire site
+
+# Full rebuild (ignore cache)
 hugo server --disableFastRender --ignoreCache
-# This prints your effective configuration
+
+# Show effective config
 hugo config
 ```
 
+## Build for release
 
+Build the site before pushing so `./public` is up to date:
+
+```bash
+hugo
+```

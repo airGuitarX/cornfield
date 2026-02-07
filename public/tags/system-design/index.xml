@@ -6,7 +6,41 @@
         <description>Recent content in System Design on 玉米地</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-Hans</language>
-        <lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://airguitarx.github.io/cornfield/tags/system-design/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 29 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://airguitarx.github.io/cornfield/tags/system-design/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>2025 找工总结</title>
+        <link>https://airguitarx.github.io/cornfield/p/2025-job-hunting-summary-kk/</link>
+        <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://airguitarx.github.io/cornfield/p/2025-job-hunting-summary-kk/</guid>
+        <description>&lt;p&gt;有存档的是投了 493 个职位，17 个 HR call，3 个 OA，1 个 system design / code interview / leadership interview。
+&lt;img src=&#34;flow.jpg&#34; alt=&#34;converting-flow&#34;&gt;&lt;/p&gt;
+&lt;p&gt;庆祝自己成为连续三次找工第一次面试就拿到 offer 的人！&lt;/p&gt;
+&lt;p&gt;距离上次找工已经过了好久所以又在不断试错。&lt;/p&gt;
+&lt;h2 id=&#34;1简历&#34;&gt;1）简历
+&lt;/h2&gt;&lt;p&gt;总之第一步就是改简历，参考了很多这里的信息，简历模板也是这里找的：&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/EngineeringResumes/wiki/index/#wiki_bullet_points&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;r/EngineeringResumes Wiki&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;因为我的目标是多个不同职位所以一开始用 Word 做了好几个版本，后来发现改起来太麻烦，后面就转去用 LaTeX 了（用的是这个在线编辑器 &lt;a class=&#34;link&#34; href=&#34;https://www.overleaf.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Overleaf&lt;/a&gt;），搭配 GPT 改起来快很多。&lt;/p&gt;
+&lt;p&gt;最开始的简历完全是石沉大海，也试过 LinkedIn 上联系人，一样没结果，后来改了 2–3 次以后才开始有点回音。&lt;/p&gt;
+&lt;h2 id=&#34;2oa--assessment&#34;&gt;2）OA / assessment
+&lt;/h2&gt;&lt;p&gt;要求复杂或者要求不明确（比如遇到一个给了4个需求然后说能做多少做多少的）的 take home 可以直接放弃，我个人觉得只是浪费时间，固定时间固定题目类型的可以做。&lt;/p&gt;
+&lt;h2 id=&#34;3技术面&#34;&gt;3）技术面
+&lt;/h2&gt;&lt;p&gt;我面了 system design 和 coding interview，没啥好说的，SD 就是八股文，背就行；coding interview 的话我这次准备了但根本没用上（很神奇的是以前两次找工的时候也都根本没用上……白刷了三次leetcode😂）有条件的话和别人 mock interview 练习效果会好很多。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;准备 SD 时用的白板：&lt;a class=&#34;link&#34; href=&#34;https://excalidraw.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Excalidraw&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;准备 SD 用的材料：&lt;a class=&#34;link&#34; href=&#34;https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hello Interview — System Design in a Hurry&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我是周一做的第一轮 BQ 面周二收到下一轮邀请，安排在次周一做的 SD 面，在这时对 SD 的了解基本是 0，临时抱佛脚一周也能答到基本过关的水平。&lt;/p&gt;
+&lt;h2 id=&#34;4leadership--bq-面&#34;&gt;4）Leadership / BQ 面
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/EngineeringResumes/wiki/index/#wiki_bullet_points&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;r/EngineeringResumes Wiki&lt;/a&gt; 多准备即可。&lt;/p&gt;
+&lt;h2 id=&#34;5offer&#34;&gt;5）Offer
+&lt;/h2&gt;&lt;p&gt;没啥可说的了，找工市场不好，找到一个比我现在工作各方面都强得多的我就接了。&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>2025 找工总结</title>
         <link>https://airguitarx.github.io/cornfield/p/2025-job-hunting-summary/</link>
         <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
