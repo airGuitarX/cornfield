@@ -38,10 +38,5 @@ hugo server --disableFastRender --ignoreCache
 hugo config
 ```
 
-## Build for release
-
-Build the site before pushing so `./public` is up to date:
-
-```bash
-hugo
-```
+## Deploy worflow
+github action will run once a pr is merged, it will checkout new change -> build env -> build the site(static content) -> upload artifact -> deploy
