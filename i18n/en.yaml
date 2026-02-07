@@ -1,0 +1,5 @@
+# English fallback for widget title
+widget:
+  authorsCloud:
+    title:
+      other: Authors
