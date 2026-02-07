@@ -95,17 +95,29 @@ def parse_rfc3339(value: str) -> "datetime | None":
 
 
 def to_pst_iso(value: str) -> str | None:
-    from datetime import timezone, timedelta
+    from zoneinfo import ZoneInfo
 
     dt = parse_rfc3339(value)
     if not dt:
         return None
-    pst = timezone(timedelta(hours=-8))
-    return dt.astimezone(pst).replace(microsecond=0).isoformat()
+    la = ZoneInfo("America/Los_Angeles")
+    return dt.astimezone(la).replace(microsecond=0).isoformat()
+
+
+def is_la_offset(value: str) -> bool:
+    from zoneinfo import ZoneInfo
+
+    dt = parse_rfc3339(value)
+    if not dt:
+        return False
+    la = ZoneInfo("America/Los_Angeles")
+    return dt.utcoffset() == dt.astimezone(la).utcoffset()
 
 
 def should_update(existing: str | None, new_value: str) -> bool:
     if not existing:
+        return True
+    if not is_la_offset(existing):
         return True
     existing_dt = parse_rfc3339(existing)
     new_dt = parse_rfc3339(new_value)
