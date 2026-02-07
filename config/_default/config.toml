@@ -20,6 +20,11 @@ disqusShortname = "cornfieldrr"
 pagerSize = 5
 
 disableHugoGeneratorInject = true
+enableGitInfo = true
+
+[frontmatter]
+  # Prefer front matter last_modified, then git info, then fallback to lastmod/date.
+  lastmod = ["last_modified", ":git", "lastmod", "date", "publishDate"]
 
 # Taxonomies (include defaults when adding author for sidebar filter)
 [taxonomies]

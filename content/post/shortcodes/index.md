@@ -2,6 +2,7 @@
 title: Shortcodes
 description: Useful shortcodes that can be used in Markdown
 date: 2025-09-30 00:00:00+0000
+lastmod: "2025-10-04T15:59:08-07:00"
 draft: true
 ---
 
