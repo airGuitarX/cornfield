@@ -21,7 +21,11 @@ jobs:
 
       - name: Update lastmod in posts
         run: |
-          files=$(git diff --name-only "${{ github.event.before }}" "${{ github.sha }}" -- 'content/post/**/index.md' || true)
+          before="${{ github.event.before }}"
+          if [[ -z "$before" ]]; then
+            before="$(git rev-parse HEAD~1)"
+          fi
+          files=$(git diff --name-only "$before" "${{ github.sha }}" -- 'content/post/**/index.md' || true)
           files="${files//$'\n'/ }"
           if [[ -z "$files" ]]; then
             echo "No changed posts in this push."
