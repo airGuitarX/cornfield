@@ -2,5 +2,6 @@
   {{- $content := .Inner -}}
   {{- $content = $content | replaceRE `(https?://archiveofourown.org/(?:works|series)/\d+)` `<a href="$1" target="_blank" rel="noopener" style="color: #d22; text-decoration: underline;">$1</a>` -}}
   {{- $content = $content | replaceRE `(^|[^/])(\b\d{5,10}\b)` `$1<a href="https://archiveofourown.org/works/$2" target="_blank" rel="noopener" style="color: #d22; text-decoration: underline;">$2</a>` -}}
+  {{- $content = $content | replaceRE `\n\n+` `<br><br>` -}}
   {{- $content | safeHTML -}}
 </div>
