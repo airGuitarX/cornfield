@@ -25,6 +25,46 @@ footer.site-footer .powerby {
     grid-column: 1 / -1;
 }
 
+/* Sidebar widgets: smaller icon & title, center-aligned
+   Use aside.sidebar.right-sidebar so these win on category/tag/author list pages too */
+aside.sidebar.right-sidebar .widget:has(> .widget-icon) {
+    align-items: center;
+}
+aside.sidebar.right-sidebar .widget:has(> .widget-icon) > .widget-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+}
+aside.sidebar.right-sidebar .widget:has(> .widget-icon) > .widget-icon svg {
+    width: 25px;   /* default: 32px */
+    height: 25px;
+    display: block;
+}
+aside.sidebar.right-sidebar .widget:has(> .widget-icon) > .widget-title.section-title {
+    font-size: 1.4rem;   /* default: 1.6rem (.section-title) */
+    line-height: 25px; /* match icon height for vertical alignment */
+    margin: 0 !important;   /* default: margin-bottom: 10px (.section-title) */
+    padding: 0;
+    align-self: center;
+}
+
+/* Sidebar: more compact (less vertical padding) */
+aside.sidebar.right-sidebar {
+    gap: 20px;   /* default: var(--widget-separation) = 40px */
+}
+aside.sidebar.right-sidebar .widget:has(> .widget-icon) > .tagCloud-tags,
+aside.sidebar.right-sidebar .widget:has(> .widget-icon) > .widget-archive--list,
+aside.sidebar.right-sidebar .widget:has(> .widget-icon) > .widget--toc {
+    margin-top: 6px;   /* default: section-title had margin-bottom: 10px */
+}
+aside.sidebar.right-sidebar .tagCloud .tagCloud-tags {
+    gap: 6px;   /* default: 10px */
+}
+aside.sidebar.right-sidebar .widget.archives .archives-year a {
+    padding: 8px 16px;   /* default: 18px 25px */
+}
+
 /* === Description font size overrides === */
 
 /* Post list (homepage, tag pages, etc.) */
