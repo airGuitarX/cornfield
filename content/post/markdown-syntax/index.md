@@ -1,6 +1,7 @@
 ---
 title: Markdown Syntax Guide
 date: 2023-09-07
+lastmod: "2025-10-04T15:59:08-07:00"
 description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
 draft: true
 ---

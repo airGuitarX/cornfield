@@ -1,0 +1,34 @@
+# Update lastmod in each post's front matter from the last git commit date for that file.
+# Runs when content under content/ changes; commits and pushes if any lastmod changed.
+name: Update lastmod from git
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'content/**'
+  workflow_dispatch:
+permissions:
+  contents: write  # push updated front matter
+jobs:
+  update-lastmod:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Update lastmod in posts
+        run: |
+          python3 .github/scripts/update_lastmod.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --exit-code content/ || {
+            git add content/
+            git commit -m "chore: set lastmod from git for updated posts"
+            git push
+          }

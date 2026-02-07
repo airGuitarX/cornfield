@@ -4,6 +4,7 @@ author: [KK]
 description: 小公司突然要求5days RTO，又在一整年都没做任何1:1或者performance review的情况下唐突被pip，不想干了于是开始缓慢找工
 slug: 2025-job-hunting-summary-kk
 date: 2025-12-29 00:00:00+0000
+lastmod: "2026-02-07T12:47:34-08:00"
 categories:
     - 工作
 tags:
