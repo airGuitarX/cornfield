@@ -4,6 +4,7 @@ author: [RR]
 description: 既然有了blog就用一下吧之2025同人年度总结
 slug: 2025-fangirl-summary-rr
 date: 2025-12-31 00:00:00+0000
+last_modified: "2026-02-07T13:34:04-08:00"
 lastmod: "2026-02-07T11:59:19-08:00"
 image: art_summary.PNG
 categories:

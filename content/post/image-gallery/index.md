@@ -2,6 +2,7 @@
 title: Image gallery
 description: Create beautiful interactive image gallery using Markdown
 date: 2023-08-26 00:00:00+0000
+last_modified: "2026-02-07T13:34:04-08:00"
 lastmod: "2025-10-04T15:59:08-07:00"
 image: 2.jpg
 draft: true

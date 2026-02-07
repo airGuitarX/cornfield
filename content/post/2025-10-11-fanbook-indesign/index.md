@@ -4,6 +4,7 @@ author: [RR]
 description: 本人（0 InDesign基础, 有少许PS和AI经验）现学现卖制作同人本（文本），几次实践之后记录的小技巧/注意点。
 slug: InDesign-fanbook-making
 date: 2025-10-10 00:00:00+0000
+last_modified: "2026-02-07T13:34:04-08:00"
 lastmod: "2026-02-07T11:59:19-08:00"
 image: typography.jpg
 categories:
