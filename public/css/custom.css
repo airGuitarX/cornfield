@@ -1,8 +1,0 @@
-/* Hide the "powerby" section in the footer */
-footer.site-footer .powerby {
-    display: none !important;
-}
-/* TEST OVERRIDE */
-body {
-  border: 5px solid red !important;
-}
