@@ -7,6 +7,7 @@ import re
 import subprocess
 import sys
 from pathlib import Path
+from typing import Iterable
 
 
 def get_last_commit_iso(path: Path) -> str | None:
@@ -23,18 +24,38 @@ def get_last_commit_iso(path: Path) -> str | None:
         return None
 
 
-def update_front_matter_lastmod(content: str, new_lastmod: str) -> str:
-    """Add or replace last_modified in YAML front matter (first --- ... --- block)."""
-    # Match first front matter block
+def extract_front_matter(content: str) -> tuple[str, str, str, int] | None:
+    """Return (preamble, front_matter, end_delim, end_index) for the first front matter block."""
     pattern = re.compile(
         r"^(---\r?\n)(.*?)(\r?\n---\r?\n)",
         re.DOTALL,
     )
     match = pattern.match(content)
     if not match:
-        return content
-
+        return None
     preamble, fm, end_delim = match.groups()
+    return preamble, fm, end_delim, match.end()
+
+
+def find_existing_last_modified(fm: str) -> str | None:
+    match = re.search(r"^last_modified\s*:\s*(.+)\s*$", fm, re.MULTILINE)
+    if not match:
+        return None
+    raw = match.group(1).strip()
+    if raw.startswith('"') and raw.endswith('"') and len(raw) >= 2:
+        return raw[1:-1]
+    if raw.startswith("'") and raw.endswith("'") and len(raw) >= 2:
+        return raw[1:-1]
+    return raw
+
+
+def update_front_matter_lastmod(content: str, new_lastmod: str) -> str:
+    """Add or replace last_modified in YAML front matter (first --- ... --- block)."""
+    # Match first front matter block
+    parts = extract_front_matter(content)
+    if not parts:
+        return content
+    preamble, fm, end_delim, end_index = parts
     new_fm: str
     field = "last_modified"
 
@@ -61,7 +82,46 @@ def update_front_matter_lastmod(content: str, new_lastmod: str) -> str:
             # No date line; append at end of front matter
             new_fm = fm.rstrip() + f'\n{field}: "{new_lastmod}"\n'
 
-    return preamble + new_fm + end_delim + content[match.end() :]
+    return preamble + new_fm + end_delim + content[end_index:]
+
+
+def parse_rfc3339(value: str) -> "datetime | None":
+    from datetime import datetime
+
+    try:
+        return datetime.fromisoformat(value.replace("Z", "+00:00"))
+    except ValueError:
+        return None
+
+
+def to_pst_iso(value: str) -> str | None:
+    from datetime import timezone, timedelta
+
+    dt = parse_rfc3339(value)
+    if not dt:
+        return None
+    pst = timezone(timedelta(hours=-8))
+    return dt.astimezone(pst).replace(microsecond=0).isoformat()
+
+
+def should_update(existing: str | None, new_value: str) -> bool:
+    if not existing:
+        return True
+    existing_dt = parse_rfc3339(existing)
+    new_dt = parse_rfc3339(new_value)
+    if not existing_dt or not new_dt:
+        return existing != new_value
+    return existing_dt != new_dt
+
+
+def iter_target_paths(posts_dir: Path, paths: Iterable[str]) -> Iterable[Path]:
+    if not paths:
+        yield from sorted(posts_dir.glob("*/index.md"))
+        return
+    for p in paths:
+        if not p:
+            continue
+        yield (posts_dir.parent / p).resolve()
 
 
 def main() -> int:
@@ -72,12 +132,23 @@ def main() -> int:
         return 0
 
     updated = 0
-    for path in sorted(posts_dir.glob("*/index.md")):
+    paths = [p for p in sys.argv[1:] if p.strip()]
+    for path in iter_target_paths(posts_dir, paths):
+        if not path.is_file():
+            continue
         iso = get_last_commit_iso(path)
         if not iso:
             continue
+        pst_iso = to_pst_iso(iso) or iso
         text = path.read_text(encoding="utf-8")
-        new_text = update_front_matter_lastmod(text, iso)
+        parts = extract_front_matter(text)
+        existing = None
+        if parts:
+            _, fm, _, _ = parts
+            existing = find_existing_last_modified(fm)
+        if not should_update(existing, pst_iso):
+            continue
+        new_text = update_front_matter_lastmod(text, pst_iso)
         if new_text != text:
             path.write_text(new_text, encoding="utf-8")
             updated += 1

@@ -21,7 +21,13 @@ jobs:
 
       - name: Update lastmod in posts
         run: |
-          python3 .github/scripts/update_lastmod.py
+          files=$(git diff --name-only "${{ github.event.before }}" "${{ github.sha }}" -- 'content/post/**/index.md' || true)
+          files="${files//$'\n'/ }"
+          if [[ -z "$files" ]]; then
+            echo "No changed posts in this push."
+            exit 0
+          fi
+          python3 .github/scripts/update_lastmod.py $files
 
       - name: Commit and push if changed
         run: |
@@ -29,6 +35,6 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git diff --exit-code content/ || {
             git add content/
-            git commit -m "chore: set lastmod from git for updated posts"
+            git commit -m "auto-action: set last_modified time for updated posts"
             git push
           }
