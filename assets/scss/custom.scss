@@ -236,4 +236,8 @@ aside.sidebar.right-sidebar .widget.archives .archives-year a {
   height: 300px;
   object-position: top;
 } 
-
+// set cover size for 2025-fangirl-summary-rr post
+.article-list article .article-image img[src*="fangirl-summary-rr"] {
+  height: 280px;
+  object-position: top;
+} 
