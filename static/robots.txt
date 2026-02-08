@@ -1,0 +1,17 @@
+# robots.txt to discourage AI training crawlers (while keeping search engines allowed)
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+# Default: allow all other crawlers
+User-agent: *
+Allow: /
