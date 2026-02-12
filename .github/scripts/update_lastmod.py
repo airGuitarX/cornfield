@@ -126,14 +126,17 @@ def should_update(existing: str | None, new_value: str) -> bool:
     return existing_dt != new_dt
 
 
-def iter_target_paths(posts_dir: Path, paths: Iterable[str]) -> Iterable[Path]:
+def iter_target_paths(repo_root: Path, posts_dir: Path, paths: Iterable[str]) -> Iterable[Path]:
     if not paths:
         yield from sorted(posts_dir.glob("*/index.md"))
         return
     for p in paths:
         if not p:
             continue
-        yield (posts_dir.parent / p).resolve()
+        candidate = Path(p)
+        if not candidate.is_absolute():
+            candidate = (repo_root / candidate).resolve()
+        yield candidate
 
 
 def main() -> int:
@@ -145,7 +148,7 @@ def main() -> int:
 
     updated = 0
     paths = [p for p in sys.argv[1:] if p.strip()]
-    for path in iter_target_paths(posts_dir, paths):
+    for path in iter_target_paths(repo_root, posts_dir, paths):
         if not path.is_file():
             continue
         iso = get_last_commit_iso(path)
