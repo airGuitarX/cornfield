@@ -1,6 +1,6 @@
 ---
 title: TF ao3扫文
-description: tfp的威柱红，tfa的威红，地火的威柱红其他各种世界观的威中心扫文
+description: tfp的威柱红，tfa的威红，地火的威柱红和其他各种世界观的威中心扫文
 author: [KK]
 slug: tf-ao3
 date: 2026-02-07 00:00:00+0000
@@ -10,8 +10,7 @@ categories:
     - 同人
 weight: 1  
 tags:
-    - 威红
-    - mopm
+    - 扫文
     - AO3
 ---
 
@@ -856,6 +855,14 @@ ooc，而且感觉轮威
 
 tfp 威红，把车车人基地炸穿之后家产大拆特拆
 
+
+扫文：
+430312 - All That Remains By Fierceawakening (2026/02/12)
+tfp版bad code
+
+扫文：
+431402 - Cold By Fierceawakening (2026/02/12)
+红蜘蛛很好奇威震天获得了黑暗能量以后是什么感觉，于是威震天通过火种融合展示给他看，家产很爱的火种sex
 
 {{< /fic-formater >}}
 
