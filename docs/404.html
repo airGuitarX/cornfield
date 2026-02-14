@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirecting…</title>
+    <meta name="robots" content="noindex, nofollow" />
+    <script>
+      (function () {
+        var base = "https://cornfield.pages.dev";
+        var target = base + window.location.pathname + window.location.search + window.location.hash;
+        if (target === base) {
+          target = base + "/";
+        }
+        var link = document.createElement("link");
+        link.rel = "canonical";
+        link.href = target;
+        document.head.appendChild(link);
+        window.location.replace(target);
+      })();
+    </script>
+    <noscript>
+      <meta http-equiv="refresh" content="0; url=https://cornfield.pages.dev/" />
+    </noscript>
+  </head>
+  <body>
+    <p>Redirecting to the new site…</p>
+    <p><a href="https://cornfield.pages.dev/">Click here if you are not redirected.</a></p>
+  </body>
+</html>
