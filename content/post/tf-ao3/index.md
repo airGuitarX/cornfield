@@ -80,7 +80,7 @@ p柱idw柱互换穿越文，没看，mopm是第一顺位cp
 
 弃文：
 10776648 - Machinations - Short Story Collection By Maunakea (2026/01/28)
-合集，没看
+合集，没有任何感兴趣的世界观和cp
 
 弃文：
 56524585 - The Broken Crown By esmeral (2026/01/28)
@@ -136,7 +136,7 @@ tfa tfp互换文，无聊
 
 扫文：
 44739487 - The Starscreams By Spoon888 (2026/01/28)
-08/p红穿越文
+多宇宙红穿越文
 
 扫文：
 1364260 - On Display By orphan_account (2026/01/28)
@@ -569,7 +569,7 @@ idw威红，合意前提威操机棍红
 
 我不是在搜rid威红吗怎么看到这个。
 
-年上红/年下角斗士威，开头以为是红威因为红明说了想草威，去了卧室以后，红以为威没经验所以教学了一大推，结果真开始的时候威上手就让红缴械了[允悲] 看tag有first time但是看这个描述到底first time了……肉很香尽管没有本垒
+年上红/年下角斗士威，开头以为是红威因为红明说了想草威，去了卧室以后，红以为威没经验所以教学了一大推，结果真开始的时候威上手就让红缴械了[允悲] 看tag有first time但是看这个描述到底谁first time了……肉很香尽管没有本垒
 
 看到一半我觉得红太dom了有点怕结果写到结局：这肯定是威红😂
 
@@ -864,12 +864,279 @@ tfp版bad code
 431402 - Cold By Fierceawakening (2026/02/12)
 红蜘蛛很好奇威震天获得了黑暗能量以后是什么感觉，于是威震天通过火种融合展示给他看，家产很爱的火种sex
 
+扫文：
+1172934 - Body Work By Decepticonsensual (2026/02/12)
+什么色情按摩？在看威红文怎么又捡到威声了好想吃威声啊啊啊啊！！！！
+
+Massaging Decepticon soldiers’ injured or sore limbs was usually one of the medic’s duties, although when Soundwave could spare the time, he often obliged Megatron, as well.
+
+扫文：
+5024116 - Faust By Spoon888 (2026/02/12)
+https://archiveofourown.org/series/339619
+系列文第一篇
+[泪奔]也太爱了吧，火种换火种，少见的鳏夫红+1 ​​​
+...红红出去探查遇到宇宙大帝
+
+宇宙大帝说你把火种给我我帮你干掉威震天
+
+红红说好啊然后醒来发现火种没有了
+
+然后除了vv对他开始海誓山盟之外红没觉得宇宙大帝帮他做了任何事
+
+直到vv发现红红火种没有了，就把红红关了禁闭自己去找宇宙大帝，红红椒闹闹把他传送出来之后他们一起去找vv，红红突然发现自己火种回来了，然后又遇到宇宙大帝，说vv已经做了交易
+
+Faust: 浮士德，传说里向魔鬼出卖灵魂之后遭到报应
+
+
+扫文：
+5151215 - Orpheus By Spoon888 (2026/02/12)
+紧接前篇，红红去找被宇宙大帝夺走的威威，然后停战了，护星公结局
+
+Orpheus: 俄耳甫斯，其妻子欧律狄刻（Eurydice）死于毒蛇咬伤，俄耳甫斯悲痛万分，决定下到冥界寻找爱人。他用音乐感动了冥王冥后，获得允许带走妻子，但条件是走出冥界前不得回头。最终因心切回首，妻子永远留在了冥界。
+
+
+扫文：
+11737029 - What Seekers Want By Spoon888 (2026/02/13)
+说vv意外获得了无法自控的读心能力，然后在闹闹值班的时候看到他对tc的幻想
+Then Skywarp's train of thought jumped from sentimentally to something far more intimate fast enough to give Megatron whiplash. 
+
+⬆️不知道说闹闹好poor还是tc好poor还是威威好poor啊啊啊啊啊啊啊啊啊
+
+看完觉得很无聊，在最后附注里作者说xx对这个结局的解释堪称完美，点进去一看是同人图，而且是轮威，卧槽好像吃了屎
+
+
+扫文：
+57117883 - Megastar drabbles By AutomaticMercy (2025/11/28)
+
+第三章是地火威红纯恨（
+Starscream lay in the rectangular berth like an organic starfish.
+
+第四章是tfa威红vv把红红的头当飞机杯用
+Then, he leans a bit closer, pulling Starscream’s helm inwards to meet him halfway, and he presses a kiss against the seeker’s helm, right below the little fragment of the All-spark.
+纯爱啊！
+
+第六章是地火威红，红去偷能量
+
+第八章是第六章的后续，地火威红纯恨again
+For now, it was a simple mistake. One they would make, a million times over.
+
+扫文：
+28559028 - Mikaela Banes: Babysitter By Spoon888 (2026/02/15)
+mov威红，米凯拉被叫来带威红的小孩😂，威红出场就是吵架斗嘴带小孩（还要一起出任务
+
+扫文：
+34635907 - Baby On Board By Spoon888 (2026/02/15)
+mov威红搞笑夫妻，红蜘蛛又怀了20多个
+
+扫文：
+43030323 - Dad Instincts By Spoon888 (2026/02/15)
+mov，如标题，新手爹地vv
+
+扫文：
+48928807 - TMI By Spoon888 (2026/02/15)
+mov, tmi=Too Much Information, No one wants to talk about their estranged, psycho-brother’s sex life
+
+扫文：
+58619935 - Mistaken Identity By Spoon888 (2026/02/15)
+mov, 幼崽把柱柱当vv了（因为气味
+
+扫文：
+59915260 - Prime Uncle By Spoon888 (2026/02/15)
+mov，柱柱被迫带小孩了
+
+扫文：
+16462931 - Catch Twenty-two (kids) By Spoon888 (2026/02/15)
+mov，威威回家看到红红在带小孩然后认出来了是自己的
+
+扫文：
+20219833 - Empty Hatchling Pod Syndrome By Spoon888 (2026/02/15)
+mov, 红红把上一波幼崽养大以后又发情了，所以他们大拆特拆again
+
+扫文：
+47046130 - Decepticon Family Values By Spoon888 (2026/02/15)
+mov, 威红的小火种太烦人了红红说我真的应该和fallen草的，威威：你确定你没有吗？
+
+扫文：
+4961227 - Bayverse Drabbles By FeeFido (2026/02/16)
+mov威红合集，笨蛋夫夫狂生小孩（。
+
+扫文：
+59415967 - Kinktober 2024 By Deceptive_Writer (EndlessVacantMind) (2026/02/16)
+第16章是地火老叔强奸地火红
+第20章是opm色情枪支清洁
+
+弃文：
+60338002 - My transformer writings By raiLeurTA (2026/02/16)
+没标哪个宇宙的多cp合集，跳过
+
+弃文：
+16572749 - Evolution By KJAnderson (2026/02/16)
+mov威红威，副cp是米凯拉和漂移这已经够怪了，威红还突然开始刀子play，臣退了
+
+扫文：
+23916502 - Two Left Treads By Spoon888 (2026/02/16)
+mov威红，"You will keep an optic out for those glaciers, won't you?" Starscream asked quietly, turning them slowly in a circle. They passed through the sun, and Starscream's face was cast in golden light. 
+
+"I will," Megatron promised, fingers sliding between Starscream's. 
+
+看完感觉家产太爱我也死了。
+
+扫文：
+5983981 - Baby Sling By Kit_SummerIsle (2026/02/17)
+
+同时有m/op，威/红，天/红，威/声 tag 的mov文，看简介感觉是红威，往下看发现还是红天，哇， mov红公，这也太少见了！！！！！
+这里作者设定是体型最大的做0 （虽说从碳基世界来说比较合理，但是塞伯坦人的蛋很小啊（。
+
+红威，红天，opm，铁皮柱，其他人柱
+反正就是mop都怀了以后停战了
+
+扫文：
+4351829 - Drabble Dump 3 By InuShiek (2026/02/17)
+有一个是mov的bdsm mopm
+这里面居然有一篇是vv给塔恩口，big胆！！！！！我脸上是看到狗草主人的表情
+有一篇威声，搜索soundwave直达
+
+扫文：
+4496742 - A good Second By Velvet_Apricots (2026/02/17)
+mov威威受伤以后红红照顾威威
+
+扫文：
+323139 - Claws (no soft fingertips) By neverminetohold (2026/02/17)
+mov威红，而且太爱了吧
+mov红红受伤以后威威照顾红红
+
+扫文：
+16473458 - Legacy By notsomajestic (2026/02/17)
+mov威红，很难想象搞了20多年威红的人看到真人世的机设有多冲击，看到他俩在真人世的结局又有多冲击……红红死了威威一边养幸存的两个小孩一边怀念他的悼文
+
+扫文：
+71955736 - Kinktober 2025 - Transformers By Laure_Prime (2026/02/17)
+第二章是地火mop滴蜡play
+第四章是mop但p威草mov柱
+第十章是one威红，窒息play，轻微angry sex？但合意
+
+扫文：
+29000022 - Sparkling Scars and Other Parental Woes By GemmaRose (2026/02/17)
+mov带小孩
+
+扫文：
+56991730 - Brighter Days By FeeFido (2026/02/17)
+未完，mov背景直接没打仗vv还是护星公，红是学校老师，这是什么，这是……这是……这是……这是塞伯坦版霸道总裁爱上我（或许是霸道总统
+
+扫文：
+458259 - The Coven By angelcakes19 (2026/02/18)
+mov未完，说汽车人开发了病毒把霸天虎一部分人变成吸血鬼了，威和大波中招……
+
+扫文：
+432048 - Purgatory By angelcakes19 (2026/02/18)
+mov意识流？
+
+扫文：
+47054185 - Nights on the Nemisis By LilPinkGremlin (2026/02/18)
+只有第一篇是威红，红为了掩饰暗杀vv的意图所以吻了威威？我问号，但是挺萌的……
+
+扫文：
+20099539 - Battle High By ladydragon76 (2026/02/18)
+mov甜文，只是家产贴贴 
+
+扫文：
+14511309 - Pay attention to me By StarscreamsChunkyHeels (2026/02/18)
+小学生ooc
+
+扫文：
+686379 - Worth It By Kyra_Neko_Rei (2026/02/18)
+说威怎么招到自己的sic，里面设定他成为护星公以后王冠是焊上去的……()有点萌，这篇写的也挺萌
+
+扫文：
+3708555 - Starscream to Megatron By alyuchiha913 (2026/02/18)
+看了标题和简介之后看到正文第一句话就猜到正文最后一句话了，因为家产就是这种恨 
+
+扫文：
+686397 - Concerning Flight By Kyra_Neko_Rei (2026/02/18)
+飞行教学，写的挺萌的，很多红给威上漆内容，没人看可能是因为他标的是真人世…… 
+
+扫文：
+10572330 - Weight By FeeFido, FuchsiaProse (2026/02/18)
+悼文，很短
+
+扫文：
+432072 - Imperfections By angelcakes19 (2026/02/18)
+mov，排版很糟糕
+
+扫文：
+432039 - Praise By angelcakes19 (2026/02/18)
+前面那个的后续，排版不是很好读，看了几章感觉没有主线，有家产很爱的拆（和威威记录红红的叫声
+
+扫文：
+503594 - Old Patterns By angelcakes19 (2026/02/18)
+看到后续才来补的前篇，但是看完发现家产两个人都死了， 那续集还写什么啊😂？
+
+扫文：
+547415 - My Second By angelcakes19 (2026/02/18)
+未完结，上面的续作或者说前篇，也没什么情节展开
+
+扫文：
+9912791 - Drabble Dump (Transformers) By orphan_account (2026/02/18)
+没啥好看的合集文
+
+扫文：
+46285789 - Beginning Fire By orphan_account (2026/02/18)
+无聊的带崽
+
+扫文：
+41957649 - 纹我 By mingfuandong (2026/02/18)
+看到简介就预感是雷文，看到妊娠纹更是天雷滚滚，什么鬼东西，到底谁爱看 
+
+弃文：
+775184 - Transformers Contagion By FalseProphet (Batmanthegroomer) (2026/02/18)
+合集文，没标具体cp也没标具体世界线
+
+扫文：
+17078792 - My Decepticon By RealityGlitch (2026/02/18)
+诗歌
+
+扫文：
+243922 - Allottment By Merfilly (2026/02/18)
+带崽文但是情节很摸不着头脑，这个系列的其中一篇：https://archiveofourown.org/series/9254 基于DOTM小说的系列文，没看过小说所以跳过
+
+扫文：
+57575014 - Prime Directive By FeeFido (2026/02/18)
+
+扫文：
+10569195 - Love Through Death By orphan_account (2026/02/18)
+
+扫文：
+287890 - The Echoing Emptiness By Merfilly (2026/02/18)
+
+弃文：
+4812437 - Let´s Get Dirty By lay (2026/02/18)
+开头写威只顾自己奢华享受让其他霸天虎饿肚子我就直接点击关闭了
+
+https://archiveofourown.org/works?work_search[sort_column]=kudos_count&work_search[other_tag_names]=&work_search[excluded_tag_names]=&work_search[crossover]=&work_search[complete]=T&work_search[words_from]=&work_search[words_to]=&work_search[date_from]=&work_search[date_to]=&work_search[query]=&work_search[language_id]=&include_work_search[fandom_ids][]=225713&commit=Sort+and+Filter&tag_id=Megatron*s*Starscream+%28Transformers%29&page=9
+
 {{< /fic-formater >}}
 
 
 ### mopm
 
 {{< fic-formater >}}
+
+扫文：
+57965173 - Those Living On By Anonymous (2026/01/15)
+
+mopm，看完好痛苦，战后大家都没死的设定（？也可能是rid再往后了，威威在用外部介质整理自己记忆盘的时候意外读到柱柱视角的关于他自己怎么殒落的回忆………………………柱柱看他坠落的时候第一反应不是开心而是绝望，威威很担心汽车人会发现他们这种感情或者霸天虎会读到这个从而用柱柱的绝望取乐，于是威威去塞伯坦把磁盘还给柱柱（同时柱柱把这段记忆放在外部介质的理由也是作为prime战争结束了他不应该为了vv的死悲伤，应该去庆祝bee还活着而且车人赢了）。。。
+
+相顾无言然后威威离开了，之后（不清楚过了多久？/）柱柱重新找到vv想把vv还给他的介质再交给他， 柱柱说这是属于你的真相（大概是指他对v的感情？ vv问柱为什么要给他， 柱柱说因为我想让你留着它（这种感情？）
+
+然后vv接过问柱柱想不想进屋坐坐，柱柱说I do
+
+总之就是看完好痛苦！！！感觉家产两个重男相遇把我折磨死了
+
+扫文：
+32473402 - Mud and Radio Silence By Useless19 (2026/01/22)
+
+好喜欢，柱柱威威在人类核工厂？打架结果被污染了导致通讯组件双双失灵，无可奈何的互相清理的时候柱柱回忆过去ing，对vv说我很高兴你还活着， vv说想我了？，柱柱很诚实说是，vv说I will not leave you behind to function where I do not. 啊啊！！啊啊！！！但是！！！！到头来还是没做到啊！！竹篮打水一场空啊对你俩都是！！！！！
+
 扫文：
 3234731 - Uprising By Dellessa (2026/01/29)
 ooc
@@ -1082,18 +1349,13 @@ opm纯拆，战前一段战后一段，mpreg，很遗憾受方没有输出管描
 
 
 扫文：
-7756351 - Close Quarters By zuzeca (2026/02/05)
-
-opm但是mop提及
-
-没在对接里描写威的输出管且有泥塑
-
+7756351 - Close Quarters By zuzeca (2025/07/12)
+opm但是mop提及，opm过程中柱柱提到之前威草奥的时候奥自己用假管练习过而这导致了威威反应剧烈，互攻人可太看这个了
 
 扫文：
 32388307 - Free Ride By Anonymous
 
 chapter 2是tfp背景的战后柱柱用威威身体self service(柱柱自己的机体损坏了所以临时住在vv火种舱里），挺萌的，看描写是完全的mopm
-
 
 
 扫文：
@@ -1165,6 +1427,111 @@ Megatron laughed without humor, “And now, after I nearly ripped my core coding
 
 推荐给爱看弱攻强受的人！
 
+扫文：
+55403965 - Megatron Does NOT Drunk Call His Ex By spreadward (2026/02/12)
+v因为议会后和奥利安break up所以喝醉酒结果接到奥利安逃离授权仪式来卡昂找他的电话，然后奥利安照顾vv，甜饼
+
+
+扫文：
+47274373 - Moronic Acid By Chuzilllaa (2026/01/13)
+
+mopm普通傻白甜弱智文，他俩停战以后喝高纯想用液氦冰镇一下结果柱不小心给v下了致死剂量的毒（……同时柱自己也喝大了看vv没反应以为他死了（……）……然后柱开始疯狂告白
+
+虽然v醒来以后一句都记不得了
+
+结局因为红给v下过太多次毒导致v的抗性很强所以啥事没有，和柱说清楚了以后他俩接吻，轻微残余毒素把柱的发音器直接干下线了（。
+
+里面还有一段很萌的说vv中毒以后处理器混乱又拒绝治疗，柱柱不得不把他像拽猫一样从墙上扒下来……(……)
+
+扫文：
+46571206 - Tarnian Slip By Land_Locked_Martian (2026/01/19)
+
+mopm，tfp战后背景vv存活前提，大概是讲柱柱如果平衡车虎关系的一篇，cp相关内容其实不多。 
+
+另外，这篇的评论我觉得比正文有意思 
+
+扫文：
+24986074 - Secret Santa, gladiator-style By Anonymous (2026/01/14)
+
+vv送礼物给柱柱求爱，里面关于柱柱的描写都挺萌的
+
+扫文：
+46749361 - Secret Santa: Christmas Night By Anonymous (2025/12/18)
+
+mopm 互攻但这篇主要是opm，战后和谈背景，vv偶然提到做梦想要奥奥睡奸他，柱柱觉得威威这个想法很危险，于是去问june护士，结果turns out 威威可能真想这么做，但是柱柱还是觉得这样对塞伯坦人太危险了（可能会触发防御协议直接把柱柱干死），左右拉扯以后，在一个非常巧合的情况下最后还是拆了，情节相对pwp来说非常（？）曲折，很萌的文！
+
+弃文：
+1237150 - Turn of a Switch By spaceliquid (2026/02/14)
+tfp/idw柱互穿文，不喜欢idw柱也怕是轮威，弃之
+
+扫文：
+5219315 - MegOP Drabble Collection By spaceliquid (2025/11/09)
+
+
+第一章的3是tfp的 Prompt: how about TFP with Optimus topping for the first time after he’s been upgraded by the Forge?<br />
+第八章的2 是奥柱威3p （但是轮威）
+
+
+扫文：
+61512355 - plumbing issues By beta_blockers (2025/06/29)
+
+08，柱草威尿道
+
+扫文：
+17265167 - Coming Home By astolat
+
+vv重建卡隆写很不错，op上线以后就开始恋爱脑，可以不用看了，最后有一段mop拆
+
+⬆️上次看的时候我还很讨厌美帝，现在美帝已成为家产之一，但是我的看法还是没怎么改变，不怎么喜欢v后面恋爱脑的部分，但是前面重建卡隆的部分我很喜欢 
+
+扫文：
+29278248 - Fool's Hope By astolat (2026/02/14)
+剧情比较平淡，汽车人战败背景，最后那段前护国公和前prime的挺好看的，喜提现任护国公prime结局？
+
+扫文：
+64125931 - It Gets Better (but maybe not for you) By goresque (2026/02/15)
+我只是来调查mopm里谁养胃谁早谢的为什么在这里看到one红威，比猝不及防还猝不及防
+
+扫文：
+62344171 - Optimus Primes' Spike Saves Cybertron (NOT CLICKBAIT) By HectorBomb (2026/02/15)
+08 opm惊天雷文，拳打tyt脚踢，，，脚踢什么我也不知道但是哥们你写的这是谁？出场角色没有一个不ooc的
+
+扫文：
+55309339 - Deep Below Where The Rocks Grow By Ultraviolet_Sodapop (2026/02/15)
+one opm，奥早泄+1
+
+扫文：
+50483701 - Knocking Thrusters: Transformers Kinktober 2023 By iliterallydecepticanteven (2026/02/15)
+第七章是tfp 壁尻opm，其他的宇宙不是很有兴趣没看
+
+扫文：
+32385769 - Gun Maintenance By Tenebrum (2026/02/15)
+opm色情擦枪
+
+扫文：
+49967446 - For Your Optics Only By IvyCorp (2026/02/15)
+opm前提威草自己接口倒模的自攻自受，感觉是真的威一体机会爱看的东西……就是写的嬷嬷的，后面还有一段opm
+
+扫文：
+46723498 - Play Hard, Get Hard By IvyCorp (2026/02/15)
+opm，bdsm，写的挺色的，重点是有aftplay而且还描写了威威的管子
+
+扫文：
+61588045 - And In Due Time, Peace By iliterallydecepticanteven (2025/07/18)
+
+总之就是柱威为了有小火种努力拆了一次的故事，tfp
+居然有攻口受的管啊我太爱看了！！
+
+继为爱做0以后的为爱揣崽啊因为vv抱怨说柱的腰臀都太narrow不适合揣崽，啊啊啊啊啊
+
+扫文：
+61751455 - Unicron be damned (however you may be damned by yourself alone and I may be quite idiotic and yet, who cares?) By itswolfstarforme (2026/02/15)
+柱用矩阵给威威解除宇宙大帝的诅咒
+
+扫文：
+55669963 - Bloodline By 0 (only_elsewhere) (2026/02/15)
+威威柱柱打架，威威甜柱柱的能量液，He licks his claws until they’re clean.
+
 {{< /fic-formater >}}
 
 ### 威声威
@@ -1207,6 +1574,13 @@ https://archiveofourown.org/works/56788162
 And if the world is not ready to welcome it, Megatronus will have to remake it.
 
 革命战友情啊！
+
+扫文：
+13669197 - The Poetry Incident, or, How Soundwave Learned to Stop Worrying and Love Megatron By Jack_R (2026/02/14)
+
+g1但波是p波，pnp 威声威，两个傻子最后终于互相表明了心意走到了一起，让我们祝福他们。
+
+以及为不幸牵扯其中的柱柱救救车和红蜘蛛表示沉痛哀悼。 ​​​
 
 {{< /fic-formater >}} 
 
@@ -1253,7 +1627,7 @@ rolled off感觉好萌啊超级结实肌肉毛米但圆jpg之感
 
 扫文：
 76442936 - Rebellious Birds By Ghost_in_the_Gallery (2026/02/07)
-sg，柱红opm，vv写得太weak了
+sg，柱红，mopm，vv写得太weak了
 
 
 扫文：
@@ -1318,6 +1692,25 @@ tfp 无任何斜线cp，红要回报应号偷能量，黑寡妇帮他放了麻�
 76155651 - It gets to a point By Softiee_Silk (2026/01/30)
 sg all威，如何在一篇文里毁掉所有角色，这作者是和威和红有仇吗你写的是谁啊
 
+扫文：
+3278360 - Megatron, Bound and Gaged By InuShiek, Nordilinga (2026/02/14)
+all威，ooc
+
+扫文：
+48158680 - Dragon's Clutch By CosmicsBeings (CosmicWalker) (2026/02/14)
+冲威，红威，嬷文，ooc
+
+扫文：
+47359267 - Impulsivity By Land_Locked_Martian (2026/02/15)
+威柱声不过G rating，很全龄的小波+机器狗+柱沙发打闹
+
+扫文：
+54963280 - Not a Surrender By ArrowAces (2026/02/15)
+威惊生小火种，太拟人了，难看
+
+扫文：
+4351829 - Drabble Dump 3 By InuShiek (2026/02/17)
+合集，威左比较多，有威红和威声
 
 {{< /fic-formater >}}
 
