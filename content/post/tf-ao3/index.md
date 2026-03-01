@@ -24,7 +24,7 @@ tags:
 
 [AO3 CP高亮插件](https://greasyfork.org/en/scripts/557956-ao3-relationship-highlighter)
 
-## 标及说明
+## 食用指南
 
 扫文：看完了的或着至少品了一点的
 
