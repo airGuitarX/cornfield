@@ -4,7 +4,7 @@
   {{- $content = $content | replaceRE `(?m)^####\s*---end\s*$\n?` `` -}}
   {{- $content = $content | replaceRE `(https?://[^\s<>"']+)` `<a href="$1" target="_blank" rel="noopener" style="color: #d22; text-decoration: underline;">$1</a>` -}}
   {{- $content = $content | replaceRE `\[(\d{5,10})\]` `<a href="https://archiveofourown.org/series/$1" target="_blank" rel="noopener" style="color: #d22; text-decoration: underline;">[$1]</a>` -}}
-  {{- $content = $content | replaceRE `(?m)(^|[\s(（\[【])(\d{5,10})($|[\s)）\]】,.:;!?-])` `$1<a href="https://archiveofourown.org/works/$2" target="_blank" rel="noopener" style="color: #d22; text-decoration: underline;">$2</a>$3` -}}
+  {{- $content = $content | replaceRE `(?m)(^|[^0-9A-Za-z_/?=&:\-\[\]])(\d{5,10})($|[^0-9A-Za-z_/?=&:\-\[\]])` `$1<a href="https://archiveofourown.org/works/$2" target="_blank" rel="noopener" style="color: #d22; text-decoration: underline;">$2</a>$3` -}}
   {{- $content = $content | replaceRE `\n\n+` `<br><br>` -}}
   {{- $content | safeHTML -}}
 </div>
