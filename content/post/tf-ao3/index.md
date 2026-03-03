@@ -25,6 +25,11 @@ tags:
 
 [AO3 CP/角色高亮插件](https://greasyfork.org/en/scripts/557956-ao3-relationship-highlighter)
 
+威中心群：1045203375 
+<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=b2SCcOEpaTepWf__zMTWwnQZ0lDwsc6Q&jump_from=webapi&authKey=9+euiUuLCWAJFqTNxqfK9aEAfC5zRaKjLih+Zk9kgDZtuIgKSnEZM5PcVxKu20yt"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="世界第一霸天虎皇帝陛下" title="世界第一霸天虎皇帝陛下"></a>
+
+ComicCup威震天中心街道筹备群：702503307 
+<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=dO4xAI_KId0vXHqT61bC-c0f6hoecOK8&jump_from=webapi&authKey=pU6ErQzpwyu1ALbqWi46fUELcKlBlQCRrAJH8CN/Dx8eDUvGbh3IeehOKy5HC+PS"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="CP32威震天中心街道筹" title="CP32威震天中心街道筹"></a>
 ## 扫文食用指南
 
 扫文：看完了的或着至少品了一点的
