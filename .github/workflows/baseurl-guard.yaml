@@ -1,0 +1,33 @@
+name: Guard baseURL
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "config/_default/config.toml"
+      - ".github/workflows/*.yml"
+      - ".github/workflows/*.yaml"
+  pull_request:
+    paths:
+      - "config/_default/config.toml"
+      - ".github/workflows/*.yml"
+      - ".github/workflows/*.yaml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check-baseurl:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fail if baseURL points to github.io
+        run: |
+          if rg -n '^\s*baseURL\s*=\s*"https?://[^"]*github\.io/.*"' config/_default/config.toml; then
+            echo "ERROR: baseURL points to github.io. Use your canonical Cloudflare/custom domain."
+            exit 1
+          fi
+          echo "baseURL guard passed."

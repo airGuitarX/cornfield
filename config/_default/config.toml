@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseURL = "https://airguitarx.github.io/cornfield/"
+baseURL = "https://cornfield.pages.dev/"
 theme = "hugo-theme-stack"
 languageCode = "zh-Hans"
 title = "玉米地"
